@@ -34,6 +34,6 @@ legend("topright",
 # Plot 4
 plot(dat$DateTime, dat$Global_reactive_power, 
      type = "l", 
-     xlab = "", ylab = "Global_reactive_power")
+     xlab = "datetime", ylab = "Global_reactive_power")
 
 dev.off()
