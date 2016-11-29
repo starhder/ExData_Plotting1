@@ -1,6 +1,7 @@
 ## Note!!
 
-To spead up the script execution and get cleaner files, I submit <b> 9 </b> files instead of 8.
+To spead up the script execution and get cleaner R scripts, I submitted <b> 9 </b> files instead of 8.
+<b> prepare_data.R </b> is the exception and for prepare and cache data only.
 Let me know if you're not happy with that. starhder@gmail.com
 
 ## Introduction
