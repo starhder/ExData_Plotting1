@@ -13,7 +13,7 @@ lines(dat$DateTime, dat$Sub_metering_2, col = "red")
 lines(dat$DateTime, dat$Sub_metering_3, col = "blue")
 
 legend("topright", 
-       col = c("black", "blue", "red"), 
+       col = c("black", "red", "blue"), 
        legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
        lty = c(1,1,1))
 
