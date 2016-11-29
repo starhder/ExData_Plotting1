@@ -21,7 +21,7 @@ plot(dat$DateTime, dat$Voltage,
 # Plot 3
 plot(dat$DateTime, dat$Sub_metering_1, 
      type = "n", 
-     xlab = "", ylab = "Global Active Power (kilowatts)")
+     xlab = "", ylab = "Energy sub metering")
 lines(dat$DateTime, dat$Sub_metering_1, col = "black")
 lines(dat$DateTime, dat$Sub_metering_2, col = "red")
 lines(dat$DateTime, dat$Sub_metering_3, col = "blue")
