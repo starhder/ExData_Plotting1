@@ -9,8 +9,8 @@ plot(dat$DateTime, dat$Sub_metering_1,
      type = "n", 
      xlab = "", ylab = "Global Active Power (kilowatts)")
 lines(dat$DateTime, dat$Sub_metering_1, col = "black")
-lines(dat$DateTime, dat$Sub_metering_2, col = "blue")
-lines(dat$DateTime, dat$Sub_metering_3, col = "red")
+lines(dat$DateTime, dat$Sub_metering_2, col = "red")
+lines(dat$DateTime, dat$Sub_metering_3, col = "blue")
 
 legend("topright", 
        col = c("black", "blue", "red"), 
