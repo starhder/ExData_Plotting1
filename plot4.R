@@ -10,7 +10,7 @@ par(mfrow=c(2,2))
 # Plot 1
 plot(dat$DateTime, dat$Global_active_power, 
      type = "l", 
-     xlab = "", ylab = "Global Active Power (kilowatts)")
+     xlab = "", ylab = "Global Active Power")
 
 # Plot 2
 plot(dat$DateTime, dat$Voltage, 
