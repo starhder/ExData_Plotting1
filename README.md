@@ -1,3 +1,8 @@
+## Note!!
+
+To spead up the script execution and get cleaner files, I submit <b> 9 </b> files instead of 8.
+Let me know if you're not happy with that. starhder@gmail.com
+
 ## Introduction
 
 This assignment uses data from
